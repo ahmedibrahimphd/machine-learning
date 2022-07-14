@@ -4,16 +4,8 @@ username:
 account: rpubs
 server: rpubs.com
 hostUrl: rpubs.com
-<<<<<<< Updated upstream
-appId: https://api.rpubs.com/api/v1/document/923679/4fe453a310d14102ab26ee6efb4746cf
-bundleId: https://api.rpubs.com/api/v1/document/923679/4fe453a310d14102ab26ee6efb4746cf
-url: http://rpubs.com/publish/claim/923679/05389fc268834f0197ed544b6d26ee37
-when: 1657728275.57118
-lastSyncTime: 1657728275.57119
-=======
-appId: https://api.rpubs.com/api/v1/document/923701/a490ccef6b6949939fcca1dd138de3df
-bundleId: https://api.rpubs.com/api/v1/document/923701/a490ccef6b6949939fcca1dd138de3df
-url: http://rpubs.com/publish/claim/923701/dc32ae9ac0624a0cbff30419ce9a1df6
-when: 1657732646.29135
-lastSyncTime: 1657732646.29137
->>>>>>> Stashed changes
+appId: https://api.rpubs.com/api/v1/document/923923/f949779042154d86a27aa14d34a7492e
+bundleId: https://api.rpubs.com/api/v1/document/923923/f949779042154d86a27aa14d34a7492e
+url: http://rpubs.com/publish/claim/923923/7f3396d88c5b429698fb5f48cb571cab
+when: 1657810723.08789
+lastSyncTime: 1657810723.0879
